@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Model and dataset files
+*.pkl
+*.csv
+
+# Old models directories
+old_models/
+old_models2/
+
+# Streamlit and Python environment files
+.env
+.venv/
+*.env
+*.DS_Store
+
+# OS generated files
+Thumbs.db
